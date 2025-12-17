@@ -1,0 +1,3 @@
+2025-12-03 17:37:01.680021+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CANDIDATES" not found; SQL statement:
+INSERT INTO candidates (name, party, program) VALUES ('Mohammed Alami', 'Parti de la Justice', 'Développement économique et social') [42102-232]
